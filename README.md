@@ -23,4 +23,4 @@ node client.js <socket_id> where socket_id is the socket we want to connect.
 ```
 ## Customizing the database and listening port
 
-To configure the mongo database and the port that the app listens on at startup, copy the file `.env.examle`, located at the root of the project, to `.env` and set an appropriate value for the `MONGO_URI` and `PORT` environment variable listed in the file. This must be done before the app is started.
+To configure the mongo database and the port that the app listens on at startup,navigate at the root of the server and client folders, to `.env` and set an appropriate value for the `MONGO_URI` and `PORT` environment variable listed in the file. This must be done before the app is started.
