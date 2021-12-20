@@ -11,7 +11,7 @@ npm install
 ```
 ## Run the app in development mode
 
-After doing an `npm install` enter the following `npm run` commands:
+After doing an `npm install` both in server and client directory enter the following `npm run` commands:
 
 -To run the server:
 ```sh
