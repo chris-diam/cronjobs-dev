@@ -33,6 +33,6 @@ Post route:
 ```sh
 localhost:<port>/api/cron
 ```
-The request body must contain a JSON file with 2 fields, "event" and "socket_id"  e.g. {"event": "event1", "socket_id": 2 }
+The request body  can be a JSON file with 2 fields, "event" and "socket_id"  e.g. {"event": "event1", "socket_id": 2 }
 
 
